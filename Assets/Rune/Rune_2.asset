@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2b2a0a3bff8b949813c3402240654b, type: 3}
+  m_Name: Rune_2
+  m_EditorClassIdentifier: 
+  runeSprite: {fileID: 21300000, guid: fb1406e0bc65bc44d89ca107b9d0a6da, type: 3}
+  validZonePositions:
+  - {x: -117, y: 172}
+  - {x: -216, y: 489}
+  - {x: 107, y: 540}
+  - {x: 248, y: 209}
+  - {x: 8, y: -84}
+  - {x: -392, y: -455}
+  - {x: 325, y: -476}
+  trapZonePositions:
+  - {x: 181, y: -167}
+  - {x: -40, y: -330}
+  - {x: -274, y: 641}
+  - {x: 199, y: -643}
+  - {x: -388, y: -204}
+  - {x: -198, y: -25}
+  - {x: 64, y: 309}
+  - {x: -95, y: 401}
+  - {x: -432, y: 302}
+  - {x: -53, y: 717}
+  - {x: 397, y: 426}
+  - {x: 334, y: -6}
+  - {x: -328, y: -642}
+  level: 0

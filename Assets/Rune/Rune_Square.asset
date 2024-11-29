@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2b2a0a3bff8b949813c3402240654b, type: 3}
+  m_Name: Rune_Square
+  m_EditorClassIdentifier: 
+  runeSprite: {fileID: 21300000, guid: 38033755499757243bafe3c6db2c7c82, type: 3}
+  validZonePositions:
+  - {x: -494, y: -3}
+  - {x: -23, y: -507}
+  - {x: -443, y: 465}
+  - {x: 24, y: 493}
+  - {x: 464, y: 464}
+  - {x: 496, y: 34}
+  - {x: -476, y: -465}
+  - {x: 463, y: -468}
+  trapZonePositions:
+  - {x: -13, y: -340}
+  - {x: 317, y: -320}
+  - {x: -661, y: 249}
+  - {x: -693, y: -241}
+  - {x: 216, y: -646}
+  - {x: -325, y: -322}
+  - {x: -658, y: -612}
+  - {x: -303, y: -17}
+  - {x: 323, y: 24}
+  - {x: 23, y: 319}
+  - {x: 656, y: 241}
+  - {x: 267, y: 637}
+  - {x: 626, y: 612}
+  - {x: -295, y: 329}
+  - {x: -223, y: 653}
+  - {x: -626, y: 605}
+  - {x: 656, y: -228}
+  - {x: 637, y: -602}
+  - {x: 336, y: 303}
+  - {x: -313, y: -650}
+  level: 0

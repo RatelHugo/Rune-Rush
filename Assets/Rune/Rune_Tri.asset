@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2b2a0a3bff8b949813c3402240654b, type: 3}
+  m_Name: Rune_Tri
+  m_EditorClassIdentifier: 
+  runeSprite: {fileID: 21300000, guid: d965ab02a24e68547b7c824def5d7984, type: 3}
+  validZonePositions:
+  - {x: -240, y: 27}
+  - {x: 5, y: 413}
+  - {x: 279, y: -4}
+  - {x: -1, y: -425}
+  - {x: -470, y: -398}
+  - {x: 463, y: -401}
+  trapZonePositions:
+  - {x: 255, y: -280}
+  - {x: -252, y: -282}
+  - {x: 224, y: -582}
+  - {x: 671, y: -478}
+  - {x: -683, y: -505}
+  - {x: 15, y: 165}
+  - {x: -11, y: 594}
+  - {x: -537, y: -106}
+  - {x: -280, y: 300}
+  - {x: 297, y: 292}
+  - {x: 553, y: -101}
+  - {x: -300, y: -565}
+  level: 0
