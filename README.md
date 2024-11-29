@@ -51,6 +51,13 @@ This game is currently **in prototype stage**:
 - Add menus, UI elements, and skins for customization.
 - Increase the game's replayability and longevity.
 
+## **Assets Source**
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/battle-wizard-poly-art-128097
+https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742
+https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeons-lite-177937
+https://assetstore.unity.com/packages/3d/props/exterior/low-poly-fence-pack-61661
+
 ## **Contribute**
 
 Contributions are welcome to enrich this prototype and improve the game.
